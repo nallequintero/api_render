@@ -1,5 +1,0 @@
-Modelo: evaluación de vehiculos
-Predictores: ['buying', 'maint', 'doors', 'persons', 'lug_boot', 'safety']
-Nombre del algoritmo: random forest
-Nombre de la variable objetivo: class
-Categorias de la variable objetivo: 'acc', 'good', 'unacc', 'vgood'
